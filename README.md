@@ -27,21 +27,17 @@ This presentation explains:
 
 ---
 
-# 📂 Project Files
+# 📂 Download Presentation
 
-```
-Phishing_Awareness_Training.pptx
-```
+📥 **PowerPoint Version (.pptx)**
 
-Editable PowerPoint presentation.
-
-```
-Phishing_Awareness_Training.pdf
-```
-
-PDF version for easy viewing.
+➡️ [Download Phishing_Awareness_Training.pptx](Phishing_Awareness_Training.pptx)
 
 ---
+
+📄 **PDF Version**
+
+➡️ [View or Download Phishing_Awareness_Training.pdf](Phishing_Awareness_Training.pdf)---
 
 # 🛠️ Tools Used
 

@@ -33,11 +33,14 @@ This presentation explains:
 
 ➡️ [Download Phishing_Awareness_Training.pptx](Phishing_Awareness_Training.pptx)
 
----
+
 
 📄 **PDF Version**
 
 ➡️ [View or Download Phishing_Awareness_Training.pdf](Phishing_Awareness_Training.pdf)---
+
+---
+
 
 # 🛠️ Tools Used
 

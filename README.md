@@ -27,21 +27,6 @@ This presentation explains:
 
 ---
 
-# 📂 Download Presentation
-
-📥 **PowerPoint Version (.pptx)**
-
-➡️ [Download Phishing_Awareness_Training.pptx](Phishing_Awareness_Training.pptx)
-
-
-
-📄 **PDF Version**
-
-➡️ [View or Download Phishing_Awareness_Training.pdf](Phishing_Awareness_Training.pdf)
-
----
-
-
 # 🛠️ Tools Used
 
 - Microsoft PowerPoint
@@ -75,6 +60,21 @@ After viewing this presentation, learners should be able to:
 - Respond appropriately to suspected phishing attempts.
 
 ---
+
+# 📂 Download Presentation
+
+📥 **PowerPoint Version (.pptx)**
+
+➡️ [Download Phishing_Awareness_Training.pptx](Phishing_Awareness_Training.pptx)
+
+
+
+📄 **PDF Version**
+
+➡️ [View or Download Phishing_Awareness_Training.pdf](Phishing_Awareness_Training.pdf)
+
+---
+
 
 # 🚀 Future Improvements
 

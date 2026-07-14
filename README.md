@@ -37,7 +37,7 @@ This presentation explains:
 
 📄 **PDF Version**
 
-➡️ [View or Download Phishing_Awareness_Training.pdf](Phishing_Awareness_Training.pdf)---
+➡️ [View or Download Phishing_Awareness_Training.pdf](Phishing_Awareness_Training.pdf)
 
 ---
 
